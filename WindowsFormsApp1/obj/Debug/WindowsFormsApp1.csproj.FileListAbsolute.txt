@@ -1,0 +1,10 @@
+E:\CSC202-Projects\CSC202-Assignment1.2CreateAGUI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\CSC202-Projects\CSC202-Assignment1.2CreateAGUI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\CSC202-Projects\CSC202-Assignment1.2CreateAGUI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\CSC202-Projects\CSC202-Assignment1.2CreateAGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\CSC202-Projects\CSC202-Assignment1.2CreateAGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.indexHorror.resources
+E:\CSC202-Projects\CSC202-Assignment1.2CreateAGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\CSC202-Projects\CSC202-Assignment1.2CreateAGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\CSC202-Projects\CSC202-Assignment1.2CreateAGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\CSC202-Projects\CSC202-Assignment1.2CreateAGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\CSC202-Projects\CSC202-Assignment1.2CreateAGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
