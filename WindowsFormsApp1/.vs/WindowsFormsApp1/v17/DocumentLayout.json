@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\CSC202-Projects\\CSC202-Assignment1.2CreateAGUI\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA049964-FE0A-45A7-83A2-611B4AAF8977}|WindowsFormsApp1.csproj|E:\\CSC202-Projects\\CSC202-Assignment1.2CreateAGUI\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DA049964-FE0A-45A7-83A2-611B4AAF8977}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DA049964-FE0A-45A7-83A2-611B4AAF8977}|WindowsFormsApp1.csproj|E:\\CSC202-Projects\\CSC202-Assignment1.2CreateAGUI\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA049964-FE0A-45A7-83A2-611B4AAF8977}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA049964-FE0A-45A7-83A2-611B4AAF8977}|WindowsFormsApp1.csproj|e:\\csc202-projects\\csc202-assignment1.2createagui\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA049964-FE0A-45A7-83A2-611B4AAF8977}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA049964-FE0A-45A7-83A2-611B4AAF8977}|WindowsFormsApp1.csproj|e:\\csc202-projects\\csc202-assignment1.2createagui\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA049964-FE0A-45A7-83A2-611B4AAF8977}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\CSC202-Projects\\CSC202-Assignment1.2CreateAGUI\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "E:\\CSC202-Projects\\CSC202-Assignment1.2CreateAGUI\\WindowsFormsApp1\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAABVAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwEUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T01:25:05.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\CSC202-Projects\\CSC202-Assignment1.2CreateAGUI\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
